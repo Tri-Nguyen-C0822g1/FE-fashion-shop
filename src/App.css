@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-wrapper {
+  border: 1px solid #ccc;
+  padding: 30px;
+  max-width: 600px;
+  width: 100%;
+}
+.CreateForm {
+  margin-top: -50px;
+}
+
+
+
